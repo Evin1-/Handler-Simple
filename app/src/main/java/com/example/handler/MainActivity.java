@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
-
+//This is a comment
     private static final String TAG = "MainActivityTAG_";
 
     private Handler mHandler;
